@@ -3,7 +3,8 @@
 
 #### 调用方法
 ```
-let promise = new Promise()
+let promise = new Promise((resolve,reject)=>{
+})
 ```
 #### API
 - then
